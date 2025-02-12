@@ -20,15 +20,15 @@
 
 ## DeepSeek 官网
 
-* **DeepSeek 网页版：** [官网繁忙](https://www.deepseek.com/)、[一下AI【平替】](https://chat.lify.vip)【快速稳定】
+* **DeepSeek 网页版：** [官网繁忙](https://www.deepseek.com/)、[🔥一下AI🔥(平替)](https://chat.lify.vip)【🔥快速稳定】
 * **DeepSeek 客户端：** [访问](https://download.deepseek.com/app/)
 * **DeepSeek API：** [访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：** [访问](https://status.deepseek.com/)
 
 ## DeepSeek 网页版（好用的官方平替）
 
-* **AI智慧岛：** [chat.lify.vip](https://chat.lify.vip/) - **DeepSeek网页版**，支持 **DeepSeek R1满血版**、V3模型
-* **一下 AI：** [www.yixiaai.com](https://www.yixiaai.com/) - **AI大模型**，支持 DeepSeek、ChatGPT 和 Claude 的最强模型
+* **🔥AI智慧岛：** [chat.lify.vip](https://chat.lify.vip/) - **DeepSeek网页版**，支持 **DeepSeek R1满血版**、V3模型
+* **🔥一下 AI：** [www.yixiaai.com](https://www.yixiaai.com/) - **AI大模型**，支持 DeepSeek、ChatGPT 和 Claude 的最强模型
 * **秘塔 AI：** [访问](https://metaso.cn/)
 * **纳米 AI：** [访问](https://www.n.cn/)
 * **Cursor：** [访问](https://www.cursor.com/)

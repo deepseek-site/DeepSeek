@@ -1,6 +1,6 @@
 # DeepSeek 官网 | DeepSeek网页版、DeepSeek API调用与本地部署教程 | 最强使用指南 ~【2025年2月更新】
 
-> **更新：2025/02/14**  
+> **更新：2025/02/14**   
 
 轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，支持 **DeepSeek R1 满血版** 以及 **ChatGPT o1、o3** 大模型。   
 
@@ -101,11 +101,11 @@ Ollama 是一个用于本地运行和管理 AI 模型的工具，用于与各种
 [![5](https://chatknow.lify.vip/imgs/ds/3.png)](https://chatknow.lify.vip/imgs/ds/3.png)
 
 ### 4. 常用命令
-整理一些常用 Ollama 命令，使用时将 <model_name> 替换成具体模型名称：
+整理一些常用 Ollama 命令，使用时将 {model_name} 替换成具体模型名称：
 
-- **安装模型**：ollama pull <model_name>
-- **运行模型**：ollama run <model_name>
-- **删除模型**：ollama rm <model_name>
+- **安装模型**：ollama pull {model_name}
+- **运行模型**：ollama run {model_name}
+- **删除模型**：ollama rm {model_name}
 - **列出已安装模型**：ollama list
 
 ---

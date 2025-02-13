@@ -1,6 +1,6 @@
 # DeepSeek 官网 | DeepSeek网页版、DeepSeek API调用与本地部署教程 | 最强使用指南 ~【2025年2月更新】
 
-> **更新：2025/02/14**   
+> **更新：2025/02/14**  
 
 轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，支持 **DeepSeek R1 满血版** 以及 **ChatGPT o1、o3** 大模型。   
 
@@ -78,25 +78,27 @@
 
 Ollama 是一个用于本地运行和管理 AI 模型的工具，用于与各种模型进行交互。
 
-![1](https://github.com/user-attachments/assets/37ae5d29-15d3-4657-8968-1e28e7be3dcc)
+[![1](https://chatknow.lify.vip/imgs/ds/1.png)](https://chatknow.lify.vip/imgs/ds/1.png)
 
 你也可以在电脑上看到 Ollama 的图标，双击打开即可。
 
-![2](https://github.com/user-attachments/assets/fd702ec4-8d72-47cb-bf22-9fed52c6cb39)
+[![2](https://chatknow.lify.vip/imgs/ds/2.png)](https://chatknow.lify.vip/imgs/ds/2.png)
 
 ### 2. 下载 DeepSeek R1 模型
 
-接下来需要打开电脑的终端命令行工具，输入命令 **ollama run deepseek-r1:32b**，后面的是模型尺寸。
+接下来需要打开电脑的终端命令行工具，输入命令 **ollama run deepseek-r1:32b**，后面的是模型尺寸
 
-![3](https://github.com/user-attachments/assets/e5dd325c-4385-4a6b-ab80-e26c4dc49186)
+[![3](https://chatknow.lify.vip/imgs/ds/0.png)](https://chatknow.lify.vip/imgs/ds/0.png)
 
-接着就可以正常下载 DeepSeek R1 模型了。
+接着就可以正常下载 DeepSeek R1模型了
+
+[![4](https://chatknow.lify.vip/imgs/ds/4.png)](https://chatknow.lify.vip/imgs/ds/4.png)
 
 ### 3. 测试 DeepSeek
 
 下载完成后，直接在终端与 DeepSeek 对话，例如输入：“介绍一下你自己”。然后等待 DeepSeek 思考并回复即可。
 
-![0](https://github.com/user-attachments/assets/3d564dc1-39a3-4bd7-8111-9cb30470e836)
+[![5](https://chatknow.lify.vip/imgs/ds/3.png)](https://chatknow.lify.vip/imgs/ds/3.png)
 
 ### 4. 常用命令
 整理一些常用 Ollama 命令，使用时将 <model_name> 替换成具体模型名称：

@@ -20,7 +20,7 @@
 
 ## DeepSeek 官网
 
-* **DeepSeek 网页版：** [官网繁忙](https://www.deepseek.com/)、[🔥一下AI (平替)](https://chat.lify.vip)【🔥快速稳定】
+* **DeepSeek 网页版：** [官网繁忙](https://www.deepseek.com/)、[🔥官网平替 ](https://chat.lify.vip)【🔥快速稳定】
 * **DeepSeek 客户端：** [访问](https://download.deepseek.com/app/)
 * **DeepSeek API：** [访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：** [访问](https://status.deepseek.com/)
